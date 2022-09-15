@@ -46,4 +46,4 @@ print(california_housing_target.max(),
 # Одиннадцатое задание - вывод названия признака и его среднего
 # значения, используя метод apply()
 print("\n\nОдиннадцатое задание:\n")
-print(california_housing_data.apply(np.floor, axis=1, args=1))
+print(california_housing_data.apply(np.mean, axis=0))
