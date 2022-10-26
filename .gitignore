@@ -1,4 +1,1 @@
-/pr4/insurance.csv
-/pr5/fashion-mnist_test.csv
-/pr6/bmi.csv
-/pr6/ECDCCases.csv
+*.csv
